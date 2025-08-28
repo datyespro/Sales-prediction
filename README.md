@@ -74,13 +74,6 @@ Mục tiêu chính:
 
 ## 🐍 Thiết lập môi trường (Anaconda)
 
-### 🔧 Tạo file môi trường từ Conda (trên máy bạn)
-
-```bash
-conda activate ten_moi_truong
-conda env export > environment.yml
-```
-
 ### 📥 Cài đặt từ `environment.yml`
 
 ```bash
